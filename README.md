@@ -32,7 +32,7 @@ Learning:
   - Rust
   - Go
   - Solidity
-````
+```
 
 ---
 
