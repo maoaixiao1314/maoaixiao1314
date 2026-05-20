@@ -1,0 +1,36 @@
+```svg
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <text x="60" y="120"
+    fill="#00F7FF"
+    font-size="52"
+    font-family="monospace">
+    Maoaixiao
+  </text>
+
+  <text x="60" y="180"
+    fill="white"
+    font-size="28"
+    font-family="monospace">
+    Web3 • AI • Cosmos • zkEVM • Cross-chain
+  </text>
+
+  <text x="60" y="230"
+    fill="#aaaaaa"
+    font-size="18"
+    font-family="monospace">
+    Building Autonomous Digital Economies
+  </text>
+
+</svg>
+```
