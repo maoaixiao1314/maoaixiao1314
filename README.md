@@ -77,12 +77,24 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maoaixiao1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoaixiao1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8" />
 
-<br/>
 
-<img src="https://streak-stats.demolab.com?user=maoaixiao1314&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff" />
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/github/followers/maoaixiao1314?style=for-the-badge&logo=github&logoColor=white&color=00f7ff&labelColor=0d1117&label=FOLLOWERS" alt="followers" /></a>
+<a href="https://github.com/maoaixiao1314?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0d1117&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaoaixiao1314" alt="repos" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=star&logoColor=white&color=ffb800&labelColor=0d1117&label=TOTAL%20STARS&query=%24..stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaoaixiao1314%2Frepos%3Fper_page%3D100&suffix=%20%E2%98%85" alt="stars" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://komarev.com/ghpvc/?username=maoaixiao1314&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS&labelColor=0d1117" alt="views" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/Rust-Learning-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" alt="rust" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" alt="go" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/Solidity-Learning-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d1117" alt="solidity" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/Cosmos-Research-2E3148?style=for-the-badge&logo=cosmos&logoColor=white&labelColor=0d1117" alt="cosmos" /></a>
+<a href="https://github.com/maoaixiao1314"><img src="https://img.shields.io/badge/Ethereum-Research-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" alt="eth" /></a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=maoaixiao1314&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff" alt="streak" />
 
 <br/><br/>
 
